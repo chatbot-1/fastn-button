@@ -1,0 +1,15 @@
+-- component button:
+caption title:
+optional string link:
+
+-- ftd.text: $button.title
+link: $button.link
+border-width.px: 2
+padding.px: 10
+border-radius.px: 6
+min-width.fixed.px: 176
+style: bold
+text-align: center
+cursor: pointer
+
+-- end: button
